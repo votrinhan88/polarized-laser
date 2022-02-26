@@ -2,7 +2,7 @@
 This repo contains MATLAB scripts to extract features of polarized light.  
 This is part of my *Pre-thesis* study *'Polarization characteristics of IgG and IgM in interaction with gold nanoparticles for COVID-19 detection'* (HCMIU VNU-HCMC, Sep 2020 - Jan 2021).  
 
-What each script does:
+## What each script does:
 - **main.m**:
     - Input data (.csv), calculate and debug the parameters, save data (.xls)
 - **statAnalyze.m**:
